@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
     s.summary       = 'Ruby bindings for libpiano/pianobar.'
     s.authors       = ['Dylan Frese']
     s.email         = 'dmfrese@gmail.com'
-    s.files         = []
+    s.files         = ['COPYING']
     s.license       = 'GPL'
     s.requirements << 'libpiano'
 end
